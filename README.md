@@ -1,2 +1,2 @@
 # sfmc-automation
-# here you can find SQL queries used in Salesforce Automation Studio to automate email reporting
+here you can find SQL queries used in Salesforce Automation Studio to automate email reporting
